@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "ConsoleApp": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\Projects\\20200804_CO2020_cloud_speech",
+      "environmentVariables": {
+        "GOOGLE_APPLICATION_CREDENTIALS": "D:\\Projects\\20200804_CO2020_cloud_speech\\OkatecApp-ef9ee246fda4.json"
+      }
+    }
+  }
+}
